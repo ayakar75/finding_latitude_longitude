@@ -1,3 +1,6 @@
+import os
+from dotenv import load_dotenv
+
 import requests
 
 
@@ -15,7 +18,12 @@ def get_lat_lng_google(address, api_key):
         return None, None
 
 
-api_key = ''
+# keys.env/keys.env dosyasının yolunu belirtme
+load_dotenv(dotenv_path=os.path.join('.env', 'keys.env'))
+api_key = os.getenv('GOOGLE_API_KEY')
+print(api_key)
+
+
 address = "HOŞNİDİYE, SAĞIN SK. NO:32, TEPEBAŞI, ESKİŞEHİR/TURKEY"
-latitude, longitude = get_lat_lng_google(address, api_key)
+latitude, longitude = get_lat_lng_google(address)
 print(f"Latitude: {latitude}, Longitude: {longitude}")
