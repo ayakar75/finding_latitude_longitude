@@ -1,3 +1,6 @@
+import requests
+
+
 def get_lat_lng(address):
     base_url = 'https://nominatim.openstreetmap.org/search'
     params = {'q': address, 'format': 'json'}
