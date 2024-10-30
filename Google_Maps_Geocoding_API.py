@@ -23,7 +23,7 @@ load_dotenv(dotenv_path=os.path.join('.venv', 'keys.env'))
 api_key = os.getenv('GOOGLE_API_KEY')
 
 
-address = "HOŞNİDİYE, SAĞIN SK. NO:32, TEPEBAŞI, ESKİŞEHİR/TURKEY"
+address = "60 Yıl Sanayi Sitesi, Park Sokak, No:12-14 34150 Bayrampaşa, İstanbul"
 latitude, longitude = get_lat_lng_google(address, api_key)
 print(f"Latitude: {latitude}, Longitude: {longitude}")
 
