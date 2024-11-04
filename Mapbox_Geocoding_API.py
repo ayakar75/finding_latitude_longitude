@@ -1,4 +1,7 @@
 import requests
+import os
+from dotenv import load_dotenv
+
 
 def get_lat_lng_mapbox(address, api_key):
     base_url = f'https://api.mapbox.com/geocoding/v5/mapbox.places/{address}.json'
@@ -13,7 +16,11 @@ def get_lat_lng_mapbox(address, api_key):
         print("Geçerli bir konum bulunamadı.")
         return None, None
 
-api_key = "YOUR_MAPBOX_API_KEY"
-address = "HOŞNİDİYE, SAĞIN SK. NO:32, TEPEBAŞI, ESKİŞEHİR/TURKEY"
+
+load_dotenv(dotenv_path=os.path.join('.venv', 'keys.env'))
+api_key = os.getenv('MAPBOX_TOKEN')
+
+address = "60 Yıl Sanayi Sitesi, Park Sokak, No:12-14 34150 Bayrampaşa, İstanbul"
 latitude, longitude = get_lat_lng_mapbox(address, api_key)
 print(f"Latitude: {latitude}, Longitude: {longitude}")
+
