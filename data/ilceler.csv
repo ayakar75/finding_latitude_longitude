@@ -1,0 +1,970 @@
+1;Seyhan;1
+2;Ceyhan;1
+3;Feke;1
+4;Karaisalý;1
+5;Karataþ;1
+6;Kozan;1
+7;Pozantý;1
+8;Saimbeyli;1
+9;Tufanbeyli;1
+10;Yumurtalýk;1
+11;Yüreðir;1
+12;Aladað;1
+13;Ýmamoðlu;1
+14;Sarýçam;1
+15;Çukurova;1
+16;Adýyaman Merkez;2
+17;Besni;2
+18;Çelikhan;2
+19;Gerger;2
+20;Gölbaþý / Adýyaman;2
+21;Kahta;2
+22;Samsat;2
+23;Sincik;2
+24;Tut;2
+25;Afyonkarahisar Merkez;3
+26;Bolvadin;3
+27;Çay;3
+28;Dazkýrý;3
+29;Dinar;3
+30;Emirdað;3
+31;Ýhsaniye;3
+32;Sandýklý;3
+33;Sinanpaþa;3
+34;Sultandaðý;3
+35;Þuhut;3
+36;Baþmakçý;3
+37;Bayat / Afyonkarahisar;3
+38;Ýscehisar;3
+39;Çobanlar;3
+40;Evciler;3
+41;Hocalar;3
+42;Kýzýlören;3
+43;Aðrý Merkez;4
+44;Diyadin;4
+45;Doðubayazýt;4
+46;Eleþkirt;4
+47;Hamur;4
+48;Patnos;4
+49;Taþlýçay;4
+50;Tutak;4
+51;Amasya Merkez;5
+52;Göynücek;5
+53;Gümüþhacýköy;5
+54;Merzifon;5
+55;Suluova;5
+56;Taþova;5
+57;Hamamözü;5
+58;Altýndað;6
+59;Ayaþ;6
+60;Bala;6
+61;Beypazarý;6
+62;Çamlýdere;6
+63;Çankaya;6
+64;Çubuk;6
+65;Elmadað;6
+66;Güdül;6
+67;Haymana;6
+68;Kalecik;6
+69;Kýzýlcahamam;6
+70;Nallýhan;6
+71;Polatlý;6
+72;Þereflikoçhisar;6
+73;Yenimahalle;6
+74;Gölbaþý / Ankara;6
+75;Keçiören;6
+76;Mamak;6
+77;Sincan;6
+78;Kazan;6
+79;Akyurt;6
+80;Etimesgut;6
+81;Evren;6
+82;Pursaklar;6
+83;Akseki;7
+84;Alanya;7
+85;Elmalý;7
+86;Finike;7
+87;Gazipaþa;7
+88;Gündoðmuþ;7
+89;Kaþ;7
+90;Korkuteli;7
+91;Kumluca;7
+92;Manavgat;7
+93;Serik;7
+94;Demre;7
+95;Ýbradý;7
+96;Kemer / Antalya;7
+97;Aksu / Antalya;7
+98;Döþemealtý;7
+99;Kepez;7
+100;Konyaaltý;7
+101;Muratpaþa;7
+102;Ardanuç;8
+103;Arhavi;8
+104;Artvin Merkez;8
+105;Borçka;8
+106;Hopa;8
+107;Þavþat;8
+108;Yusufeli;8
+109;Murgul;8
+110;Bozdoðan;9
+111;Çine;9
+112;Germencik;9
+113;Karacasu;9
+114;Koçarlý;9
+115;Kuþadasý;9
+116;Kuyucak;9
+117;Nazilli;9
+118;Söke;9
+119;Sultanhisar;9
+120;Yenipazar / Aydýn;9
+121;Buharkent;9
+122;Ýncirliova;9
+123;Karpuzlu;9
+124;Köþk;9
+125;Didim;9
+126;Efeler;9
+127;Ayvalýk;10
+128;Balya;10
+129;Bandýrma;10
+130;Bigadiç;10
+131;Burhaniye;10
+132;Dursunbey;10
+133;Edremit / Balýkesir;10
+134;Erdek;10
+135;Gönen / Balýkesir;10
+136;Havran;10
+137;Ývrindi;10
+138;Kepsut;10
+139;Manyas;10
+140;Savaþtepe;10
+141;Sýndýrgý;10
+142;Susurluk;10
+143;Marmara;10
+144;Gömeç;10
+145;Altýeylül;10
+146;Karesi;10
+147;Bilecik Merkez;11
+148;Bozüyük;11
+149;Gölpazarý;11
+150;Osmaneli;11
+151;Pazaryeri;11
+152;Söðüt;11
+153;Yenipazar / Bilecik;11
+154;Ýnhisar;11
+155;Bingöl Merkez;12
+156;Genç;12
+157;Karlýova;12
+158;Kiðý;12
+159;Solhan;12
+160;Adaklý;12
+161;Yayladere;12
+162;Yedisu;12
+163;Adilcevaz;13
+164;Ahlat;13
+165;Bitlis Merkez;13
+166;Hizan;13
+167;Mutki;13
+168;Tatvan;13
+169;Güroymak;13
+170;Bolu Merkez;14
+171;Gerede;14
+172;Göynük;14
+173;Kýbrýscýk;14
+174;Mengen;14
+175;Mudurnu;14
+176;Seben;14
+177;Dörtdivan;14
+178;Yeniçaða;14
+179;Aðlasun;15
+180;Bucak;15
+181;Burdur Merkez;15
+182;Gölhisar;15
+183;Tefenni;15
+184;Yeþilova;15
+185;Karamanlý;15
+186;Kemer / Burdur;15
+187;Altýnyayla / Burdur;15
+188;Çavdýr;15
+189;Çeltikçi;15
+190;Gemlik;16
+191;Ýnegöl;16
+192;Ýznik;16
+193;Karacabey;16
+194;Keles;16
+195;Mudanya;16
+196;Mustafakemalpaþa;16
+197;Orhaneli;16
+198;Orhangazi;16
+199;Yeniþehir / Bursa;16
+200;Büyükorhan;16
+201;Harmancýk;16
+202;Nilüfer;16
+203;Osmangazi;16
+204;Yýldýrým;16
+205;Gürsu;16
+206;Kestel;16
+207;Ayvacýk / Çanakkale;17
+208;Bayramiç;17
+209;Biga;17
+210;Bozcaada;17
+211;Çan;17
+212;Çanakkale Merkez;17
+213;Eceabat;17
+214;Ezine;17
+215;Gelibolu;17
+216;Gökçeada;17
+217;Lapseki;17
+218;Yenice / Çanakkale;17
+219;Çankýrý Merkez;18
+220;Çerkeþ;18
+221;Eldivan;18
+222;Ilgaz;18
+223;Kurþunlu;18
+224;Orta;18
+225;Þabanözü;18
+226;Yapraklý;18
+227;Atkaracalar;18
+228;Kýzýlýrmak;18
+229;Bayramören;18
+230;Korgun;18
+231;Alaca;19
+232;Bayat / Çorum;19
+233;Çorum Merkez;19
+234;Ýskilip;19
+235;Kargý;19
+236;Mecitözü;19
+237;Ortaköy / Çorum;19
+238;Osmancýk;19
+239;Sungurlu;19
+240;Boðazkale;19
+241;Uðurludað;19
+242;Dodurga;19
+243;Laçin;19
+244;Oðuzlar;19
+245;Acýpayam;20
+246;Buldan;20
+247;Çal;20
+248;Çameli;20
+249;Çardak;20
+250;Çivril;20
+251;Güney;20
+252;Kale / Denizli;20
+253;Sarayköy;20
+254;Tavas;20
+255;Babadað;20
+256;Bekilli;20
+257;Honaz;20
+258;Serinhisar;20
+259;Pamukkale;20
+260;Baklan;20
+261;Beyaðaç;20
+262;Bozkurt / Denizli;20
+263;Merkezefendi;20
+264;Bismil;21
+265;Çermik;21
+266;Çýnar;21
+267;Çüngüþ;21
+268;Dicle;21
+269;Ergani;21
+270;Hani;21
+271;Hazro;21
+272;Kulp;21
+273;Lice;21
+274;Silvan;21
+275;Eðil;21
+276;Kocaköy;21
+277;Baðlar;21
+278;Kayapýnar;21
+279;Sur;21
+280;Yeniþehir / Diyarbakýr;21
+281;Edirne Merkez;22
+282;Enez;22
+283;Havsa;22
+284;Ýpsala;22
+285;Keþan;22
+286;Lalapaþa;22
+287;Meriç;22
+288;Uzunköprü;22
+289;Süloðlu;22
+290;Aðýn;23
+291;Baskil;23
+292;Elazýð Merkez;23
+293;Karakoçan;23
+294;Keban;23
+295;Maden;23
+296;Palu;23
+297;Sivrice;23
+298;Arýcak;23
+299;Kovancýlar;23
+300;Alacakaya;23
+301;Çayýrlý;24
+302;Erzincan Merkez;24
+303;Ýliç;24
+304;Kemah;24
+305;Kemaliye;24
+306;Refahiye;24
+307;Tercan;24
+308;Üzümlü;24
+309;Otlukbeli;24
+310;Aþkale;25
+311;Çat;25
+312;Hýnýs;25
+313;Horasan;25
+314;Ýspir;25
+315;Karayazý;25
+316;Narman;25
+317;Oltu;25
+318;Olur;25
+319;Pasinler;25
+320;Þenkaya;25
+321;Tekman;25
+322;Tortum;25
+323;Karaçoban;25
+324;Uzundere;25
+325;Pazaryolu;25
+326;Aziziye;25
+327;Köprüköy;25
+328;Palandöken;25
+329;Yakutiye;25
+330;Çifteler;26
+331;Mahmudiye;26
+332;Mihalýççýk;26
+333;Sarýcakaya;26
+334;Seyitgazi;26
+335;Sivrihisar;26
+336;Alpu;26
+337;Beylikova;26
+338;Ýnönü;26
+339;Günyüzü;26
+340;Han;26
+341;Mihalgazi;26
+342;Odunpazarý;26
+343;Tepebaþý;26
+344;Araban;27
+345;Ýslahiye;27
+346;Nizip;27
+347;Oðuzeli;27
+348;Yavuzeli;27
+349;Þahinbey;27
+350;Þehitkamil;27
+351;Karkamýþ;27
+352;Nurdaðý;27
+353;Alucra;28
+354;Bulancak;28
+355;Dereli;28
+356;Espiye;28
+357;Eynesil;28
+358;Giresun Merkez;28
+359;Görele;28
+360;Keþap;28
+361;Þebinkarahisar;28
+362;Tirebolu;28
+363;Piraziz;28
+364;Yaðlýdere;28
+365;Çamoluk;28
+366;Çanakçý;28
+367;Doðankent;28
+368;Güce;28
+369;Gümüþhane Merkez;29
+370;Kelkit;29
+371;Þiran;29
+372;Torul;29
+373;Köse;29
+374;Kürtün;29
+375;Çukurca;30
+376;Hakkari Merkez;30
+377;Þemdinli;30
+378;Yüksekova;30
+379;Altýnözü;31
+380;Dörtyol;31
+381;Hassa;31
+382;Ýskenderun;31
+383;Kýrýkhan;31
+384;Reyhanlý;31
+385;Samandað;31
+386;Yayladaðý;31
+387;Erzin;31
+388;Belen;31
+389;Kumlu;31
+390;Antakya;31
+391;Arsuz;31
+392;Defne;31
+393;Payas;31
+394;Atabey;32
+395;Eðirdir;32
+396;Gelendost;32
+397;Isparta Merkez;32
+398;Keçiborlu;32
+399;Senirkent;32
+400;Sütçüler;32
+401;Þarkikaraaðaç;32
+402;Uluborlu;32
+403;Yalvaç;32
+404;Aksu / Isparta;32
+405;Gönen / Isparta;32
+406;Yeniþarbademli;32
+407;Anamur;33
+408;Erdemli;33
+409;Gülnar;33
+410;Mut;33
+411;Silifke;33
+412;Tarsus;33
+413;Aydýncýk / Mersin;33
+414;Bozyazý;33
+415;Çamlýyayla;33
+416;Akdeniz;33
+417;Mezitli;33
+418;Toroslar;33
+419;Yeniþehir / Mersin;33
+420;Adalar;34
+421;Bakýrköy;34
+422;Beþiktaþ;34
+423;Beykoz;34
+424;Beyoðlu;34
+425;Çatalca;34
+426;Eyüp;34
+427;Fatih;34
+428;Gaziosmanpaþa;34
+429;Kadýköy;34
+430;Kartal;34
+431;Sarýyer;34
+432;Silivri;34
+433;Þile;34
+434;Þiþli;34
+435;Üsküdar;34
+436;Zeytinburnu;34
+437;Büyükçekmece;34
+438;Kaðýthane;34
+439;Küçükçekmece;34
+440;Pendik;34
+441;Ümraniye;34
+442;Bayrampaþa;34
+443;Avcýlar;34
+444;Baðcýlar;34
+445;Bahçelievler;34
+446;Güngören;34
+447;Maltepe;34
+448;Sultanbeyli;34
+449;Tuzla;34
+450;Esenler;34
+451;Arnavutköy;34
+452;Ataþehir;34
+453;Baþakþehir;34
+454;Beylikdüzü;34
+455;Çekmeköy;34
+456;Esenyurt;34
+457;Sancaktepe;34
+458;Sultangazi;34
+459;Aliaða;35
+460;Bayýndýr;35
+461;Bergama;35
+462;Bornova;35
+463;Çeþme;35
+464;Dikili;35
+465;Foça;35
+466;Karaburun;35
+467;Karþýyaka;35
+468;Kemalpaþa / Ýzmir;35
+469;Kýnýk;35
+470;Kiraz;35
+471;Menemen;35
+472;Ödemiþ;35
+473;Seferihisar;35
+474;Selçuk;35
+475;Tire;35
+476;Torbalý;35
+477;Urla;35
+478;Beydað;35
+479;Buca;35
+480;Konak;35
+481;Menderes;35
+482;Balçova;35
+483;Çiðli;35
+484;Gaziemir;35
+485;Narlýdere;35
+486;Güzelbahçe;35
+487;Bayraklý;35
+488;Karabaðlar;35
+489;Arpaçay;36
+490;Digor;36
+491;Kaðýzman;36
+492;Kars Merkez;36
+493;Sarýkamýþ;36
+494;Selim;36
+495;Susuz;36
+496;Akyaka;36
+497;Abana;37
+498;Araç;37
+499;Azdavay;37
+500;Bozkurt / Kastamonu;37
+501;Cide;37
+502;Çatalzeytin;37
+503;Daday;37
+504;Devrekani;37
+505;Ýnebolu;37
+506;Kastamonu Merkez;37
+507;Küre;37
+508;Taþköprü;37
+509;Tosya;37
+510;Ýhsangazi;37
+511;Pýnarbaþý / Kastamonu;37
+512;Þenpazar;37
+513;Aðlý;37
+514;Doðanyurt;37
+515;Hanönü;37
+516;Seydiler;37
+517;Bünyan;38
+518;Develi;38
+519;Felahiye;38
+520;Ýncesu;38
+521;Pýnarbaþý / Kayseri;38
+522;Sarýoðlan;38
+523;Sarýz;38
+524;Tomarza;38
+525;Yahyalý;38
+526;Yeþilhisar;38
+527;Akkýþla;38
+528;Talas;38
+529;Kocasinan;38
+530;Melikgazi;38
+531;Hacýlar;38
+532;Özvatan;38
+533;Babaeski;39
+534;Demirköy;39
+535;Kýrklareli Merkez;39
+536;Kofçaz;39
+537;Lüleburgaz;39
+538;Pehlivanköy;39
+539;Pýnarhisar;39
+540;Vize;39
+541;Çiçekdaðý;40
+542;Kaman;40
+543;Kýrþehir Merkez;40
+544;Mucur;40
+545;Akpýnar;40
+546;Akçakent;40
+547;Boztepe;40
+548;Gebze;41
+549;Gölcük;41
+550;Kandýra;41
+551;Karamürsel;41
+552;Körfez;41
+553;Derince;41
+554;Baþiskele;41
+555;Çayýrova;41
+556;Darýca;41
+557;Dilovasý;41
+558;Ýzmit;41
+559;Kartepe;41
+560;Akþehir;42
+561;Beyþehir;42
+562;Bozkýr;42
+563;Cihanbeyli;42
+564;Çumra;42
+565;Doðanhisar;42
+566;Ereðli / Konya;42
+567;Hadim;42
+568;Ilgýn;42
+569;Kadýnhaný;42
+570;Karapýnar;42
+571;Kulu;42
+572;Sarayönü;42
+573;Seydiþehir;42
+574;Yunak;42
+575;Akören;42
+576;Altýnekin;42
+577;Derebucak;42
+578;Hüyük;42
+579;Karatay;42
+580;Meram;42
+581;Selçuklu;42
+582;Taþkent;42
+583;Ahýrlý;42
+584;Çeltik;42
+585;Derbent;42
+586;Emirgazi;42
+587;Güneysýnýr;42
+588;Halkapýnar;42
+589;Tuzlukçu;42
+590;Yalýhüyük;42
+591;Altýntaþ;43
+592;Domaniç;43
+593;Emet;43
+594;Gediz;43
+595;Kütahya Merkez;43
+596;Simav;43
+597;Tavþanlý;43
+598;Aslanapa;43
+599;Dumlupýnar;43
+600;Hisarcýk;43
+601;Þaphane;43
+602;Çavdarhisar;43
+603;Pazarlar;43
+604;Akçadað;44
+605;Arapgir;44
+606;Arguvan;44
+607;Darende;44
+608;Doðanþehir;44
+609;Hekimhan;44
+610;Pütürge;44
+611;Yeþilyurt / Malatya;44
+612;Battalgazi;44
+613;Doðanyol;44
+614;Kale / Malatya;44
+615;Kuluncak;44
+616;Yazýhan;44
+617;Akhisar;45
+618;Alaþehir;45
+619;Demirci;45
+620;Gördes;45
+621;Kýrkaðaç;45
+622;Kula;45
+623;Salihli;45
+624;Sarýgöl;45
+625;Saruhanlý;45
+626;Selendi;45
+627;Soma;45
+628;Turgutlu;45
+629;Ahmetli;45
+630;Gölmarmara;45
+631;Köprübaþý / Manisa;45
+632;Þehzadeler;45
+633;Yunusemre;45
+634;Afþin;46
+635;Andýrýn;46
+636;Elbistan;46
+637;Göksun;46
+638;Pazarcýk;46
+639;Türkoðlu;46
+640;Çaðlayancerit;46
+641;Ekinözü;46
+642;Nurhak;46
+643;Dulkadiroðlu;46
+644;Onikiþubat;46
+645;Derik;47
+646;Kýzýltepe;47
+647;Mazýdaðý;47
+648;Midyat;47
+649;Nusaybin;47
+650;Ömerli;47
+651;Savur;47
+652;Dargeçit;47
+653;Yeþilli;47
+654;Artuklu;47
+655;Bodrum;48
+656;Datça;48
+657;Fethiye;48
+658;Köyceðiz;48
+659;Marmaris;48
+660;Milas;48
+661;Ula;48
+662;Yataðan;48
+663;Dalaman;48
+664;Ortaca;48
+665;Kavaklýdere;48
+666;Menteþe;48
+667;Seydikemer;48
+668;Bulanýk;49
+669;Malazgirt;49
+670;Muþ Merkez;49
+671;Varto;49
+672;Hasköy;49
+673;Korkut;49
+674;Avanos;50
+675;Derinkuyu;50
+676;Gülþehir;50
+677;Hacýbektaþ;50
+678;Kozaklý;50
+679;Nevþehir Merkez;50
+680;Ürgüp;50
+681;Acýgöl;50
+682;Bor;51
+683;Çamardý;51
+684;Niðde Merkez;51
+685;Ulukýþla;51
+686;Altunhisar;51
+687;Çiftlik;51
+688;Akkuþ;52
+689;Aybastý;52
+690;Fatsa;52
+691;Gölköy;52
+692;Korgan;52
+693;Kumru;52
+694;Mesudiye;52
+695;Perþembe;52
+696;Ulubey / Ordu;52
+697;Ünye;52
+698;Gülyalý;52
+699;Gürgentepe;52
+700;Çamaþ;52
+701;Çatalpýnar;52
+702;Çaybaþý;52
+703;Ýkizce;52
+704;Kabadüz;52
+705;Kabataþ;52
+706;Altýnordu;52
+707;Ardeþen;53
+708;Çamlýhemþin;53
+709;Çayeli;53
+710;Fýndýklý;53
+711;Ýkizdere;53
+712;Kalkandere;53
+713;Pazar / Rize;53
+714;Rize Merkez;53
+715;Güneysu;53
+716;Derepazarý;53
+717;Hemþin;53
+718;Ýyidere;53
+719;Akyazý;54
+720;Geyve;54
+721;Hendek;54
+722;Karasu;54
+723;Kaynarca;54
+724;Sapanca;54
+725;Kocaali;54
+726;Pamukova;54
+727;Taraklý;54
+728;Ferizli;54
+729;Karapürçek;54
+730;Söðütlü;54
+731;Adapazarý;54
+732;Arifiye;54
+733;Erenler;54
+734;Serdivan;54
+735;Alaçam;55
+736;Bafra;55
+737;Çarþamba;55
+738;Havza;55
+739;Kavak;55
+740;Ladik;55
+741;Terme;55
+742;Vezirköprü;55
+743;Asarcýk;55
+744;19.May;55
+745;Salýpazarý;55
+746;Tekkeköy;55
+747;Ayvacýk / Samsun;55
+748;Yakakent;55
+749;Atakum;55
+750;Canik;55
+751;Ýlkadým;55
+752;Baykan;56
+753;Eruh;56
+754;Kurtalan;56
+755;Pervari;56
+756;Siirt Merkez;56
+757;Þirvan;56
+758;Tillo;56
+759;Ayancýk;57
+760;Boyabat;57
+761;Duraðan;57
+762;Erfelek;57
+763;Gerze;57
+764;Sinop Merkez;57
+765;Türkeli;57
+766;Dikmen;57
+767;Saraydüzü;57
+768;Divriði;58
+769;Gemerek;58
+770;Gürün;58
+771;Hafik;58
+772;Ýmranlý;58
+773;Kangal;58
+774;Koyulhisar;58
+775;Sivas Merkez;58
+776;Suþehri;58
+777;Þarkýþla;58
+778;Yýldýzeli;58
+779;Zara;58
+780;Akýncýlar;58
+781;Altýnyayla / Sivas;58
+782;Doðanþar;58
+783;Gölova;58
+784;Ulaþ;58
+785;Çerkezköy;59
+786;Çorlu;59
+787;Hayrabolu;59
+788;Malkara;59
+789;Muratlý;59
+790;Saray / Tekirdað;59
+791;Þarköy;59
+792;Marmaraereðlisi;59
+793;Ergene;59
+794;Kapaklý;59
+795;Süleymanpaþa;59
+796;Almus;60
+797;Artova;60
+798;Erbaa;60
+799;Niksar;60
+800;Reþadiye;60
+801;Tokat Merkez;60
+802;Turhal;60
+803;Zile;60
+804;Pazar / Tokat;60
+805;Yeþilyurt / Tokat;60
+806;Baþçiftlik;60
+807;Sulusaray;60
+808;Akçaabat;61
+809;Araklý;61
+810;Arsin;61
+811;Çaykara;61
+812;Maçka;61
+813;Of;61
+814;Sürmene;61
+815;Tonya;61
+816;Vakfýkebir;61
+817;Yomra;61
+818;Beþikdüzü;61
+819;Þalpazarý;61
+820;Çarþýbaþý;61
+821;Dernekpazarý;61
+822;Düzköy;61
+823;Hayrat;61
+824;Köprübaþý / Trabzon;61
+825;Ortahisar;61
+826;Çemiþgezek;62
+827;Hozat;62
+828;Mazgirt;62
+829;Nazýmiye;62
+830;Ovacýk / Tunceli;62
+831;Pertek;62
+832;Pülümür;62
+833;Tunceli Merkez;62
+834;Akçakale;63
+835;Birecik;63
+836;Bozova;63
+837;Ceylanpýnar;63
+838;Halfeti;63
+839;Hilvan;63
+840;Siverek;63
+841;Suruç;63
+842;Viranþehir;63
+843;Harran;63
+844;Eyyübiye;63
+845;Haliliye;63
+846;Karaköprü;63
+847;Banaz;64
+848;Eþme;64
+849;Karahallý;64
+850;Sivaslý;64
+851;Ulubey / Uþak;64
+852;Uþak Merkez;64
+853;Baþkale;65
+854;Çatak;65
+855;Erciþ;65
+856;Gevaþ;65
+857;Gürpýnar;65
+858;Muradiye;65
+859;Özalp;65
+860;Bahçesaray;65
+861;Çaldýran;65
+862;Edremit / Van;65
+863;Saray / Van;65
+864;Ýpekyolu;65
+865;Tuþba;65
+866;Akdaðmadeni;66
+867;Boðazlýyan;66
+868;Çayýralan;66
+869;Çekerek;66
+870;Sarýkaya;66
+871;Sorgun;66
+872;Þefaatli;66
+873;Yerköy;66
+874;Yozgat Merkez;66
+875;Aydýncýk / Yozgat;66
+876;Çandýr;66
+877;Kadýþehri;66
+878;Saraykent;66
+879;Yenifakýlý;66
+880;Çaycuma;67
+881;Devrek;67
+882;Ereðli / Zonguldak;67
+883;Zonguldak Merkez;67
+884;Alaplý;67
+885;Gökçebey;67
+886;Kilimli;67
+887;Kozlu;67
+888;Aksaray Merkez;68
+889;Ortaköy / Aksaray;68
+890;Aðaçören;68
+891;Güzelyurt;68
+892;Sarýyahþi;68
+893;Eskil;68
+894;Gülaðaç;68
+895;Bayburt Merkez;69
+896;Aydýntepe;69
+897;Demirözü;69
+898;Ermenek;70
+899;Karaman Merkez;70
+900;Ayrancý;70
+901;Kazýmkarabekir;70
+902;Baþyayla;70
+903;Sarýveliler;70
+904;Delice;71
+905;Keskin;71
+906;Kýrýkkale Merkez;71
+907;Sulakyurt;71
+908;Bahþili;71
+909;Balýþeyh;71
+910;Çelebi;71
+911;Karakeçili;71
+912;Yahþihan;71
+913;Batman Merkez;72
+914;Beþiri;72
+915;Gercüþ;72
+916;Kozluk;72
+917;Sason;72
+918;Hasankeyf;72
+919;Beytüþþebap;73
+920;Cizre;73
+921;Ýdil;73
+922;Silopi;73
+923;Þýrnak Merkez;73
+924;Uludere;73
+925;Güçlükonak;73
+926;Bartýn Merkez;74
+927;Kurucaþile;74
+928;Ulus;74
+929;Amasra;74
+930;Ardahan Merkez;75
+931;Çýldýr;75
+932;Göle;75
+933;Hanak;75
+934;Posof;75
+935;Damal;75
+936;Aralýk;76
+937;Iðdýr Merkez;76
+938;Tuzluca;76
+939;Karakoyunlu;76
+940;Yalova Merkez;77
+941;Altýnova;77
+942;Armutlu;77
+943;Çýnarcýk;77
+944;Çiftlikköy;77
+945;Termal;77
+946;Eflani;78
+947;Eskipazar;78
+948;Karabük Merkez;78
+949;Ovacýk / Karabük;78
+950;Safranbolu;78
+951;Yenice / Karabük;78
+952;Kilis Merkez;79
+953;Elbeyli;79
+954;Musabeyli;79
+955;Polateli;79
+956;Bahçe;80
+957;Kadirli;80
+958;Osmaniye Merkez;80
+959;Düziçi;80
+960;Hasanbeyli;80
+961;Sumbas;80
+962;Toprakkale;80
+963;Akçakoca;81
+964;Düzce Merkez;81
+965;Yýðýlca;81
+966;Cumayeri;81
+967;Gölyaka;81
+968;Çilimli;81
+969;Gümüþova;81
+970;Kaynaþlý;81

@@ -25,6 +25,7 @@ def get_lat_lng(address):
         return None, None
 
 
-address = "Sağın Sokak, Tepebaşı/Eskişehir"
+address = "Çamlıca Mah. Ptt Lojmanları D Blok Daire 17 Demetevler Yenimahalle, ANKARA"
 latitude, longitude = get_lat_lng(address)
 print(f"Latitude: {latitude}, Longitude: {longitude}")
+print(f"{latitude}, {longitude}")
