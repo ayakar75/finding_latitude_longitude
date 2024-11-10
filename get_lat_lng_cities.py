@@ -60,9 +60,8 @@ for index, row in districts_with_cities.iterrows():
     lat, lon = get_coordinates_google(address, api_key)
     districts_with_cities.at[index, 'Latitude'] = lat
     districts_with_cities.at[index, 'Longitude'] = lon
-
-# Sonucu göster
-print(districts_with_cities)
+    # Sonucu göster
+    print("Adres:", address +" lat:", lat, " lon:", lon )
 
 # Sonucu CSV dosyasına kaydet
 districts_with_cities.to_csv('./data/districts_with_coordinates.csv', index=False, encoding='utf-8')
