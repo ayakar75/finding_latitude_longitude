@@ -13,7 +13,7 @@ def parse_address(address):
 
 
 # Örnek adres girişleri
-address1 = "Atatürk Bulvarı, Çankaya Mahallesi, Çankaya İlçesi, Ankara"
+address1 = "Çamlıca Mahallesi, Ptt Lojmanları D Blok Daire 17, Yenimahalle, Ankara"
 address2 = "Atatürk Bulvarı Çankaya Mahallesi Çankaya İlçesi Ankara"
 address3 = "Atatürk Bulvarı Ankara"
 
